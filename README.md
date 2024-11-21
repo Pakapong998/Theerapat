@@ -1,12 +1,7 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
-
 ### Live - https://react-portfolio-template.netlify.app/
 
 
 ### Tutorials
-
-
-Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
 
 ### Features - 
 
