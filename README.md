@@ -5,7 +5,6 @@
 
 ### Tutorials
 
-Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
 
 Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
 
@@ -36,13 +35,6 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 - `yarn dev`
 
 
-### How To Deploy - 
-
-- There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into netlify with github
-- after login select the forked repo or the repo you want to deploy
-- after selecting netlify will automatially deploy your website.
 
 Quickes way to deploy this repo - 
 
